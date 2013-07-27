@@ -1,5 +1,8 @@
 Things we are learning at SWC
 =============================
+City of birth
+-------------
+Flagstaff, Arizona
 
 * shell
 ** ls
