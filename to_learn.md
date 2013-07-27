@@ -2,7 +2,7 @@ Things we are learning at SWC
 =============================
 City of birth
 -------------
-Flagstaff, Arizona
+Chennai, India
 
 Date: 2013-07-27 Time: 14:32
 
