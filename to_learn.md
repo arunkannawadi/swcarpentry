@@ -17,3 +17,4 @@ Flagstaff, Arizona
 ** Atomic commits.
 ** Set up repository on Github.
 ** Set up remotes.
+** Push master to remote repository (origin)
