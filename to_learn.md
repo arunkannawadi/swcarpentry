@@ -1,6 +1,8 @@
 Things we are learning at SWC
 =============================
 
+Date: 2013-07-27 Time: 14:32
+
 * shell
 ** ls
 ** cat
